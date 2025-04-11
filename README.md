@@ -1,4 +1,4 @@
-<h1>Resetting-Password</h1>
+<h1>Resetting a users password</h1>
 
 
 <h2>Description</h2>
